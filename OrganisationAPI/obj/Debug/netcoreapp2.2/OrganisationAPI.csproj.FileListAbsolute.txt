@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/OrganisationAPI/bin/Debug/netcoreapp2.2/OrganisationAPI.deps.json
+/Users/burakcaglayan/Projects/OrganisationAPI/bin/Debug/netcoreapp2.2/OrganisationAPI.runtimeconfig.json
+/Users/burakcaglayan/Projects/OrganisationAPI/bin/Debug/netcoreapp2.2/OrganisationAPI.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/OrganisationAPI/bin/Debug/netcoreapp2.2/OrganisationAPI.dll
+/Users/burakcaglayan/Projects/OrganisationAPI/bin/Debug/netcoreapp2.2/OrganisationAPI.pdb
+/Users/burakcaglayan/Projects/OrganisationAPI/obj/Debug/netcoreapp2.2/OrganisationAPI.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/OrganisationAPI/obj/Debug/netcoreapp2.2/OrganisationAPI.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/OrganisationAPI/obj/Debug/netcoreapp2.2/OrganisationAPI.RazorAssemblyInfo.cache
+/Users/burakcaglayan/Projects/OrganisationAPI/obj/Debug/netcoreapp2.2/OrganisationAPI.RazorAssemblyInfo.cs
+/Users/burakcaglayan/Projects/OrganisationAPI/obj/Debug/netcoreapp2.2/OrganisationAPI.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/OrganisationAPI/obj/Debug/netcoreapp2.2/OrganisationAPI.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/OrganisationAPI/obj/Debug/netcoreapp2.2/OrganisationAPI.RazorTargetAssemblyInfo.cache
+/Users/burakcaglayan/Projects/OrganisationAPI/obj/Debug/netcoreapp2.2/OrganisationAPI.dll
+/Users/burakcaglayan/Projects/OrganisationAPI/obj/Debug/netcoreapp2.2/OrganisationAPI.pdb
