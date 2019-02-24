@@ -12272,11 +12272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/burakcaglayan/Projects/OrganisationAPI/OrganisationAPI.csproj",
+      "projectUniqueName": "/Users/burakcaglayan/Projects/GatewayAPISample/OrganisationAPI/OrganisationAPI.csproj",
       "projectName": "OrganisationAPI",
-      "projectPath": "/Users/burakcaglayan/Projects/OrganisationAPI/OrganisationAPI.csproj",
+      "projectPath": "/Users/burakcaglayan/Projects/GatewayAPISample/OrganisationAPI/OrganisationAPI.csproj",
       "packagesPath": "/Users/burakcaglayan/.nuget/packages/",
-      "outputPath": "/Users/burakcaglayan/Projects/OrganisationAPI/obj/",
+      "outputPath": "/Users/burakcaglayan/Projects/GatewayAPISample/OrganisationAPI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

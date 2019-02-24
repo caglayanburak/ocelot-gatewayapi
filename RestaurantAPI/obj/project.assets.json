@@ -12272,11 +12272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/burakcaglayan/Projects/RestaurantAPI/RestaurantAPI.csproj",
+      "projectUniqueName": "/Users/burakcaglayan/Projects/GatewayAPISample/RestaurantAPI/RestaurantAPI.csproj",
       "projectName": "RestaurantAPI",
-      "projectPath": "/Users/burakcaglayan/Projects/RestaurantAPI/RestaurantAPI.csproj",
+      "projectPath": "/Users/burakcaglayan/Projects/GatewayAPISample/RestaurantAPI/RestaurantAPI.csproj",
       "packagesPath": "/Users/burakcaglayan/.nuget/packages/",
-      "outputPath": "/Users/burakcaglayan/Projects/RestaurantAPI/obj/",
+      "outputPath": "/Users/burakcaglayan/Projects/GatewayAPISample/RestaurantAPI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
